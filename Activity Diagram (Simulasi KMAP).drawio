@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T12:27:24.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.8" etag="9JmVq4t2vUjkQVvNOm6z" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T12:34:18.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="B_jC0dmxxCv4tphr-zkH" version="21.1.8" type="github">
   <diagram name="Page-1" id="IQdExYL6xirPUeavcpWP">
-    <mxGraphModel>
+    <mxGraphModel dx="378" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-1" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;rounded=0;swimlaneFillColor=none;glass=0;shadow=1;fillColor=#D6D6D6;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="220" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-2" value="" style="ellipse;html=1;shape=startState;fillColor=#f4f4f4;strokeColor=#535353;strokeWidth=1;fillStyle=auto;fontColor=#595959;" vertex="1" parent="Bqt1ynEIrNlLkhnKolbt-1">
+          <mxGeometry x="95" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#525252;rounded=0;strokeWidth=1;fillColor=#eeeeee;exitX=0.491;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;" edge="1" parent="Bqt1ynEIrNlLkhnKolbt-1" source="Bqt1ynEIrNlLkhnKolbt-2" target="Bqt1ynEIrNlLkhnKolbt-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-4" value="Tekan fitur Karnaugh Map" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f4f4;strokeColor=#525252;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fontSize=10;fontColor=#333333;" vertex="1" parent="Bqt1ynEIrNlLkhnKolbt-1">
+          <mxGeometry x="67.5" y="83" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.498;entryY=0.33;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="Bqt1ynEIrNlLkhnKolbt-1" source="Bqt1ynEIrNlLkhnKolbt-69" target="Bqt1ynEIrNlLkhnKolbt-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-69" value="Memilih Variabel KMAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f4f4;strokeColor=#525252;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fontSize=10;fontColor=#333333;" vertex="1" parent="Bqt1ynEIrNlLkhnKolbt-1">
+          <mxGeometry x="67.5" y="130" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-72" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#525252;" vertex="1" parent="Bqt1ynEIrNlLkhnKolbt-1">
+          <mxGeometry x="50" y="180" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-59" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;rounded=0;swimlaneFillColor=none;glass=0;shadow=1;fillColor=#D6D6D6;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="220" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-68" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="Bqt1ynEIrNlLkhnKolbt-59" source="Bqt1ynEIrNlLkhnKolbt-64" target="Bqt1ynEIrNlLkhnKolbt-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-64" value="Memproses aksi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f4f4;strokeColor=#525252;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fontSize=10;fontColor=#333333;" vertex="1" parent="Bqt1ynEIrNlLkhnKolbt-59">
+          <mxGeometry x="67.5" y="83" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-66" value="Mengarahkan pengguna ke fitur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4f4f4;strokeColor=#525252;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fontSize=10;fontColor=#333333;" vertex="1" parent="Bqt1ynEIrNlLkhnKolbt-59">
+          <mxGeometry x="67.5" y="130" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="1" source="Bqt1ynEIrNlLkhnKolbt-4" target="Bqt1ynEIrNlLkhnKolbt-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bqt1ynEIrNlLkhnKolbt-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#525252;endArrow=open;endFill=0;" edge="1" parent="1" source="Bqt1ynEIrNlLkhnKolbt-66" target="Bqt1ynEIrNlLkhnKolbt-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
