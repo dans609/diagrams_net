@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T12:58:30.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="05UCH32Jr5nVVmOsCSNr" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T13:00:15.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="n6topCxWV8uxgkSsZuJm" version="21.1.8" type="github">
   <diagram name="Page-1" id="IQdExYL6xirPUeavcpWP">
-    <mxGraphModel dx="1222" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bqt1ynEIrNlLkhnKolbt-59" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;rounded=0;swimlaneFillColor=none;glass=0;shadow=1;fillColor=#D6D6D6;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="220" height="540" as="geometry" />
+          <mxGeometry x="420" y="120" width="220" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Bqt1ynEIrNlLkhnKolbt-68" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="Bqt1ynEIrNlLkhnKolbt-59" source="Bqt1ynEIrNlLkhnKolbt-64" target="Bqt1ynEIrNlLkhnKolbt-66">
           <mxGeometry relative="1" as="geometry" />
