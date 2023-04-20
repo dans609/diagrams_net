@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T11:23:35.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.8" etag="muq4bfoVi8n7yypEqbHw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T10:22:58.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BnAZ7LOUq1_P4C9E9R38" version="21.2.0" type="github">
   <diagram name="Page-1" id="dKja4EkBzykUjF_LMOKq">
-    <mxGraphModel>
+    <mxGraphModel dx="690" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-1" value="Pengguna" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;rounded=0;swimlaneFillColor=none;glass=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#D6D6D6;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="220" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#525252;rounded=0;strokeWidth=1;fillColor=#eeeeee;exitX=0.491;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;" edge="1" parent="bPJuGVvLiUM82ZRJLqFB-1" target="bPJuGVvLiUM82ZRJLqFB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="90" as="targetPoint" />
+            <mxPoint x="109.73000000000002" y="66.00999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="bPJuGVvLiUM82ZRJLqFB-1" target="bPJuGVvLiUM82ZRJLqFB-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="bPJuGVvLiUM82ZRJLqFB-1" target="bPJuGVvLiUM82ZRJLqFB-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;fontSize=9;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;strokeColor=#525252;" edge="1" parent="bPJuGVvLiUM82ZRJLqFB-1" target="bPJuGVvLiUM82ZRJLqFB-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="320" />
+              <mxPoint x="110" y="320" />
+            </Array>
+            <mxPoint x="110" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-28" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;spacingLeft=-5;spacingBottom=-2;" vertex="1" connectable="0" parent="bPJuGVvLiUM82ZRJLqFB-27">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-30" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;rounded=0;swimlaneFillColor=none;glass=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#D6D6D6;fontColor=#333333;strokeColor=#666666;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="220" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="bPJuGVvLiUM82ZRJLqFB-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#525252;" edge="1" parent="bPJuGVvLiUM82ZRJLqFB-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;fontSize=9;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;strokeColor=#525252;" edge="1" parent="bPJuGVvLiUM82ZRJLqFB-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="320" />
+              <mxPoint x="110" y="320" />
+            </Array>
+            <mxPoint x="110" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPJuGVvLiUM82ZRJLqFB-35" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;spacingLeft=-5;spacingBottom=-2;" vertex="1" connectable="0" parent="bPJuGVvLiUM82ZRJLqFB-34">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
