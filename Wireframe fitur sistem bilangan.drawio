@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T07:41:27.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SsHLZvNx8ZYT_MT1gxvd" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-22T07:43:10.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cdXPaJKfakJq2zaI-NCz" version="21.2.1" type="github" pages="2">
   <diagram name="Menu Sistem Bilangan" id="8Sdu3CaVHwmh0B_RyVHV">
-    <mxGraphModel dx="934" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fseP44p9Y4bNyg0MOE2b-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="110" width="270" height="470" as="geometry" />
+          <mxGeometry x="230" y="110" width="270" height="470" as="geometry" />
         </mxCell>
         <mxCell id="fseP44p9Y4bNyg0MOE2b-2" value="" style="group" vertex="1" connectable="0" parent="fseP44p9Y4bNyg0MOE2b-1">
           <mxGeometry width="270" height="470" as="geometry" />
