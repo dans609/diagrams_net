@@ -1,9 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T07:19:50.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cnOXVzqVjT3omQdH-YrZ" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-22T07:41:27.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SsHLZvNx8ZYT_MT1gxvd" version="21.2.1" type="github" pages="2">
   <diagram name="Menu Sistem Bilangan" id="8Sdu3CaVHwmh0B_RyVHV">
-    <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fseP44p9Y4bNyg0MOE2b-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="110" width="270" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="fseP44p9Y4bNyg0MOE2b-2" value="" style="group" vertex="1" connectable="0" parent="fseP44p9Y4bNyg0MOE2b-1">
+          <mxGeometry width="270" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="fseP44p9Y4bNyg0MOE2b-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=default;strokeColor=#575757;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry width="260" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="fseP44p9Y4bNyg0MOE2b-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=#575757;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry width="260" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="fseP44p9Y4bNyg0MOE2b-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Number System" style="text;strokeColor=#575757;align=left;fillColor=#878787;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Helvetica;fontColor=#242424;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;strokeWidth=2;endArrow=open;endFill=0;strokeColor=#242424;" edge="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="35" y="21" as="sourcePoint" />
+            <mxPoint x="20" y="21" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-3" value="NUMBER SYSTEM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Helvetica;fontColor=#242424;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-4" value="CODE SYSTEM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Helvetica;fontColor=#242424;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry x="130" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#575757;" edge="1" parent="fseP44p9Y4bNyg0MOE2b-2" source="qQuTkTbhz4GaVvSLLG15-3" target="qQuTkTbhz4GaVvSLLG15-4">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="30" y="80" as="sourcePoint" />
+            <mxPoint x="110" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-6" value="&amp;nbsp; &amp;nbsp;Binary" style="text;strokeColor=#575757;align=left;fillColor=#BABABA;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontSize=12;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Helvetica;fontColor=#242424;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry x="15" y="100" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-7" value="&amp;nbsp; &amp;nbsp;Decimal" style="text;strokeColor=#575757;align=left;fillColor=#BABABA;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontSize=12;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Helvetica;fontColor=#242424;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry x="15" y="160" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-8" value="&amp;nbsp; &amp;nbsp;Octal" style="text;strokeColor=#575757;align=left;fillColor=#BABABA;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontSize=12;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Helvetica;fontColor=#242424;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry x="15" y="220" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQuTkTbhz4GaVvSLLG15-9" value="&amp;nbsp; &amp;nbsp;Hexadecimal" style="text;strokeColor=#575757;align=left;fillColor=#BABABA;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontSize=12;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Helvetica;fontColor=#242424;" vertex="1" parent="fseP44p9Y4bNyg0MOE2b-2">
+          <mxGeometry x="15" y="280" width="230" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
