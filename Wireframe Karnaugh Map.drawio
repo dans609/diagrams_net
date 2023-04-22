@@ -1,6 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T09:19:09.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.1" etag="QNI9DqOCBwK_gfJLwLoL" type="github">
-  <diagram name="Page-1" id="1OKdN1R_GXM63PwHh9qR">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-04-22T09:19:53.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yku5JYaaKFlW8IJAA7q6" version="21.2.1" type="github" pages="3">
+  <diagram name="2 Variables" id="1OKdN1R_GXM63PwHh9qR">
+    <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8RK0i1gscwmk9_hJ67wN" name="3 Variables">
+    <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8zrcCRGSa2OvCRS5j5eS" name="4 Variables">
+    <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
