@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T08:38:27.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DwX0WHrVrpLLa6UBHJlH" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-22T08:39:19.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="47mg_QkuLp_6uN1F2r3u" version="21.2.1" type="github" pages="2">
   <diagram name="Menu Sistem Bilangan" id="8Sdu3CaVHwmh0B_RyVHV">
-    <mxGraphModel dx="994" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="480" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
         <mxCell id="Gfk1oLQkqCKtcctNiVAq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#575757;endArrow=open;endFill=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" edge="1" parent="1" source="qQuTkTbhz4GaVvSLLG15-9" target="Gfk1oLQkqCKtcctNiVAq-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gfk1oLQkqCKtcctNiVAq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#575757;endArrow=open;endFill=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" edge="1" parent="1" source="qQuTkTbhz4GaVvSLLG15-9" target="Gfk1oLQkqCKtcctNiVAq-13">
+        <mxCell id="Gfk1oLQkqCKtcctNiVAq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#575757;endArrow=open;endFill=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" edge="1" parent="1" source="qQuTkTbhz4GaVvSLLG15-9" target="Gfk1oLQkqCKtcctNiVAq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
