@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T13:54:14.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IokFHyDQ89dcWieNTytI" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T14:15:33.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1VjMcnDdBX56_UK3awr6" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1006" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ktbN5aYwxhZYsoAh1HYY-9" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-3" target="ktbN5aYwxhZYsoAh1HYY-4" edge="1">
+        <mxCell id="ktbN5aYwxhZYsoAh1HYY-9" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-3" target="ktbN5aYwxhZYsoAh1HYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktbN5aYwxhZYsoAh1HYY-3" value="Mulai" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="459" y="30" width="90" height="50" as="geometry" />
+          <mxGeometry x="368.4" y="10" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FatidraGmDrwB6m1eiYe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-4" target="ktbN5aYwxhZYsoAh1HYY-15">
+        <mxCell id="FatidraGmDrwB6m1eiYe-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-4" target="FatidraGmDrwB6m1eiYe-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktbN5aYwxhZYsoAh1HYY-4" value="Komunikasi:&lt;br&gt;1. Terkait rencana pemutakhiran&lt;br&gt;2. Mengumpulkan data kepuasan mahasiswa terhadap aplikasi Sisdig Corner&#39;s &amp;amp; Digiwave melalui Kuesioner.&lt;br&gt;3. Evaluasi prototype, dll." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="395.59999999999997" y="110" width="216.81" height="95" as="geometry" />
+          <mxGeometry x="305" y="113.25" width="216.81" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ktbN5aYwxhZYsoAh1HYY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -22,12 +22,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ktbN5aYwxhZYsoAh1HYY-15" value="Perancangan UML Diagram:&lt;br&gt;1. Use case diagram&lt;br&gt;2. Activity diagram" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="597" y="255" width="163" height="70" as="geometry" />
+          <mxGeometry x="610" y="255" width="163" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-17" target="ktbN5aYwxhZYsoAh1HYY-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FatidraGmDrwB6m1eiYe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-17" target="FatidraGmDrwB6m1eiYe-2">
+        <mxCell id="FatidraGmDrwB6m1eiYe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-17" target="FatidraGmDrwB6m1eiYe-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktbN5aYwxhZYsoAh1HYY-17" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;Perancangan secara cepat:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Wireframe (Medium Fidelity)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -36,8 +36,13 @@
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-19" target="ktbN5aYwxhZYsoAh1HYY-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ktbN5aYwxhZYsoAh1HYY-19" value="Prototyping:&lt;br&gt;XML" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="454.5" y="355" width="100" height="50" as="geometry" />
+        <mxCell id="FatidraGmDrwB6m1eiYe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="638.5" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktbN5aYwxhZYsoAh1HYY-19" value="Perancangan Prototype:&lt;br&gt;1. Figma Web&lt;br&gt;2. XML" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="431.25" y="365" width="145.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-93" target="NbRlIwlE_Kw9sblHJF5f-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -69,16 +74,19 @@
           <mxGeometry x="454.5" y="565" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-0" value="Communication and Quick Plan" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;textOpacity=30;fontStyle=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="132.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="120" y="132.5" width="100" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FatidraGmDrwB6m1eiYe-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NbRlIwlE_Kw9sblHJF5f-0">
+          <mxGeometry x="47" y="26.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-1" value="Modeling quick design" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;textOpacity=30;fontStyle=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="265" width="100" height="50" as="geometry" />
+          <mxGeometry x="120" y="265" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-2" value="Construction of prototype" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;textOpacity=30;fontStyle=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="352.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="112.5" y="352.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-7" value="Development, delivery, feedback" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;textOpacity=30;fontStyle=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="205" y="450" width="100" height="50" as="geometry" />
+          <mxGeometry x="127.5" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-27" value="Communication" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;textOpacity=30;fontStyle=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="205" y="565" width="100" height="50" as="geometry" />
@@ -95,24 +103,28 @@
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-89" value="Pembuatan laporan" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="454" y="670" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FatidraGmDrwB6m1eiYe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FatidraGmDrwB6m1eiYe-2" target="ktbN5aYwxhZYsoAh1HYY-4">
+        <mxCell id="FatidraGmDrwB6m1eiYe-21" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FatidraGmDrwB6m1eiYe-14" target="ktbN5aYwxhZYsoAh1HYY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FatidraGmDrwB6m1eiYe-5" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;spacingTop=-10;" vertex="1" connectable="0" parent="FatidraGmDrwB6m1eiYe-4">
-          <mxGeometry x="-0.4439" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" as="offset" />
-          </mxGeometry>
+        <mxCell id="FatidraGmDrwB6m1eiYe-14" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;Mengirim hasil perancangan ke client&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="260" width="107" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FatidraGmDrwB6m1eiYe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FatidraGmDrwB6m1eiYe-2" target="ktbN5aYwxhZYsoAh1HYY-19">
+        <mxCell id="FatidraGmDrwB6m1eiYe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FatidraGmDrwB6m1eiYe-16" target="FatidraGmDrwB6m1eiYe-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FatidraGmDrwB6m1eiYe-7" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;" vertex="1" connectable="0" parent="FatidraGmDrwB6m1eiYe-6">
-          <mxGeometry x="-0.6322" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-6" as="offset" />
+        <mxCell id="FatidraGmDrwB6m1eiYe-16" value="Evaluasi?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Ubuntu;rounded=0;arcSize=14;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="549" y="124.25" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="FatidraGmDrwB6m1eiYe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FatidraGmDrwB6m1eiYe-23" target="ktbN5aYwxhZYsoAh1HYY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FatidraGmDrwB6m1eiYe-26" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;" vertex="1" connectable="0" parent="FatidraGmDrwB6m1eiYe-25">
+          <mxGeometry x="-0.4776" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FatidraGmDrwB6m1eiYe-2" value="Evaluasi?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Ubuntu;rounded=0;arcSize=14;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="FatidraGmDrwB6m1eiYe-23" value="Evaluasi Model?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Ubuntu;rounded=0;arcSize=14;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="655" y="124.25" width="73" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
