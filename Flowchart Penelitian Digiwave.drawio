@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T06:01:27.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P5lKwGCMBqZxYBLleLXD" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T06:11:53.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iQEwpnjaTl4paMsFaY5n" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="836" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry x="274.44" y="675" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ktbN5aYwxhZYsoAh1HYY-98" value="Selesai" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="549.5699999999999" y="675" width="90" height="50" as="geometry" />
+          <mxGeometry x="632.5" y="675" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFArxpOPMfqV2YlaVNCB-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ktbN5aYwxhZYsoAh1HYY-106" target="ktbN5aYwxhZYsoAh1HYY-113">
           <mxGeometry relative="1" as="geometry" />
@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktbN5aYwxhZYsoAh1HYY-113" value="Pengujian:&lt;br style=&quot;font-size: 11px;&quot;&gt;1. Unit testing&lt;br style=&quot;font-size: 11px;&quot;&gt;2. Instrumental testing&lt;br style=&quot;font-size: 11px;&quot;&gt;3. Sistem testing" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;fontSize=11;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="449" y="575" width="130" height="60" as="geometry" />
+          <mxGeometry x="428" y="575" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-1" value="Modeling quick design" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;textOpacity=30;fontStyle=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="92.62" y="300.63" width="100" height="50" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NbRlIwlE_Kw9sblHJF5f-89" value="Pembuatan laporan" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410.44" y="675" width="100" height="50" as="geometry" />
+          <mxGeometry x="443" y="675" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFArxpOPMfqV2YlaVNCB-0" value="Communication and Quick Plan" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;textOpacity=30;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="92.62" y="149.25" width="100" height="50" as="geometry" />
@@ -146,13 +146,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xFArxpOPMfqV2YlaVNCB-31" value="&lt;p style=&quot;line-height: 120%; font-size: 11px;&quot;&gt;Mengirim program ke client&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343" y="577.5" width="80.75" height="55" as="geometry" />
+          <mxGeometry x="297.25" y="577.5" width="80.75" height="55" as="geometry" />
         </mxCell>
         <mxCell id="xFArxpOPMfqV2YlaVNCB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xFArxpOPMfqV2YlaVNCB-34" target="xFArxpOPMfqV2YlaVNCB-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xFArxpOPMfqV2YlaVNCB-34" value="&lt;p style=&quot;line-height: 120%; font-size: 11px;&quot;&gt;Komunikasi program&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=1;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#F4F4F4;strokeColor=#36393d;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343" y="511.25" width="80.75" height="45" as="geometry" />
+          <mxGeometry x="297.25" y="498.57" width="80.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xFArxpOPMfqV2YlaVNCB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xFArxpOPMfqV2YlaVNCB-36" target="ktbN5aYwxhZYsoAh1HYY-4">
           <mxGeometry relative="1" as="geometry" />
@@ -165,13 +165,13 @@
         <mxCell id="xFArxpOPMfqV2YlaVNCB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xFArxpOPMfqV2YlaVNCB-36" target="ktbN5aYwxhZYsoAh1HYY-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xFArxpOPMfqV2YlaVNCB-49" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fontStyle=1" vertex="1" connectable="0" parent="xFArxpOPMfqV2YlaVNCB-45">
+        <mxCell id="xFArxpOPMfqV2YlaVNCB-49" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fontStyle=1;spacingTop=5;" vertex="1" connectable="0" parent="xFArxpOPMfqV2YlaVNCB-45">
           <mxGeometry x="-0.7866" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xFArxpOPMfqV2YlaVNCB-36" value="Evaluasi?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=11;fontFamily=Ubuntu;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;fillColor=#f4f4f4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="502.68" width="62.13" height="62.13" as="geometry" />
+          <mxGeometry x="190" y="490" width="62.13" height="62.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
